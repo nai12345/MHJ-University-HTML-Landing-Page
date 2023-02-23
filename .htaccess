@@ -1,6 +1,6 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^mhj-university-1-landing-page-html.moazzemhjesan\.tk$
-RewriteRule ^/?$ "http\:\/\/www\.mhj-university-1-landing-page-html.moazzemhjesan\.tk\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^mhj-university-landing-page-html.moazzemhjesan\.xyz$
+RewriteRule ^/?$ "http\:\/\/www\.mhj-university-landing-page-html.moazzemhjesan\.xyz\/" [R=301,L]
 RewriteEngine on
 RewriteBase /
 RewriteCond %{HTTP_USER_AGENT} almaden [OR]
