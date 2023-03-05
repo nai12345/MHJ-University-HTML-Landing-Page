@@ -10,5 +10,5 @@ Copyright (c) 2023 - MoazzemHJesan
 *******************************************************************************************************************************************************/
 (function(){
   const audio = new Audio();
-  audio.src = "./audio/click-sound.mp3";
+  audio.src = "../audio/click-sound.mp3";
 })();
