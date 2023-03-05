@@ -577,7 +577,7 @@ QUALITIES CSS [RESPONSIVE] END
 /*******************************************************************************************************************************************************
 MOMENTS CSS [RESPONSIVE] START
 *******************************************************************************************************************************************************/
-.moment_img{position:relative;z-index:1;width:100%;overflow:hidden;border-radius:15px;}
+.moment_img{margin:0 auto;width:70%;overflow:hidden;border-radius:15px;}
 .moment_img img{border-radius:15px;-webkit-transition:.5s;transition:.5s;-webkit-transition-timing-function:linear;transition-timing-function:linear;}
 .moment_img:hover img{-webkit-transform:scale(1.2);transform:scale(1.2);}
 /*======================================================================================================================================================
