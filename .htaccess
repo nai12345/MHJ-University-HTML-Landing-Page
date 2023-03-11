@@ -1,6 +1,6 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^mhj-university-educational-theme-template.moazzemhjesan\.xyz$
-RewriteRule ^/?$ "http\:\/\/www\.mhj-university-educational-theme-template.moazzemhjesan\.xyz\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nai12345.github\.io$
+RewriteRule ^/?$ "http\:\/\/www\.nai12345.github\.io\/" [R=301,L]
 RewriteEngine on
 RewriteBase /
 RewriteCond %{HTTP_USER_AGENT} almaden [OR]
